@@ -1,5 +1,6 @@
 """
 personalized_greeting_program.py
+--------------------------------
 
 This program asks the user for their name, year of birth, and favorite color,
 calculates their age, and then displays a personalized greeting using that information.
